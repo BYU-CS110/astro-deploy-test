@@ -1,1 +1,5 @@
-Hello from Markdown
+---
+key: 5
+---
+
+Hello from markdown
